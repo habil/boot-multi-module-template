@@ -1,0 +1,6 @@
+{
+  "generator-boot-multi-module": {
+    "packageName": "com.spring.generator",
+    "packageFolder": "com/spring/generator"
+  }
+}

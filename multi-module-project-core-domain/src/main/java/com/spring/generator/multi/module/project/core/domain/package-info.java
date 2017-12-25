@@ -1,0 +1,1 @@
+package com.spring.generator.multi.module.project.core.domain;
