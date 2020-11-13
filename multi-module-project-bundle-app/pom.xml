@@ -20,7 +20,7 @@
 		  	<artifactId>wlfullclient</artifactId>
 		  	<version>10.3.4</version>
 		  	<scope>provided</scope>
-		</dependency>	
+		</dependency>
 	</dependencies>
 	<profiles>
 		<profile>
@@ -76,7 +76,7 @@
 				<configuration>
 					<!-- Tell Maven we are using Java EE 6 -->
 					<version>6</version>
-					<!-- Use Java EE ear libraries as needed. Java EE ear libraries are in easy way to package any libraries needed in the ear, and automatically have 
+					<!-- Use Java EE ear libraries as needed. Java EE ear libraries are in easy way to package any libraries needed in the ear, and automatically have
 						any modules (EJB-JARs and WARs) use them -->
 					<defaultLibBundleDir>APP-INF/lib</defaultLibBundleDir>
 					<earSourceDirectory>${basedir}/src/main/application</earSourceDirectory>
